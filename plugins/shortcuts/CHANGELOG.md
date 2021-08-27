@@ -1,5 +1,11 @@
 # @backstage/plugin-shortcuts
 
+## 0.1.7
+
+### Patch Changes
+
+- b8e8a3424: Fix material-ui warning about deprecated `onExit` prop
+
 ## 0.1.6
 
 ### Patch Changes

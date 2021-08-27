@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 0.11.2
+
+### Patch Changes
+
+- 34e14fdf7: Allow to pass custom TemplateCard to ScaffolderPage
+- Updated dependencies
+  - @backstage/catalog-model@0.9.1
+
 ## 0.11.1
 
 ### Patch Changes
