@@ -4,6 +4,7 @@ metadata:
   name: petstore
   annotations:
     github.com/project-slug: veeraviswam1/backstage
+    backstage.io/techdocs-ref: dir:.
   # This is an extra long description
   description: The Petstore is an example API used to show features of the OpenAPI spec.
   links:
