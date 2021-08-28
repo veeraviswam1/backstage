@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: petstore
+  annotations:
+    github.com/project-slug: veeraviswam1/backstage
   # This is an extra long description
   description: The Petstore is an example API used to show features of the OpenAPI spec.
   links:
